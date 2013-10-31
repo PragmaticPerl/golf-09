@@ -1,0 +1,10 @@
+AUTHORS
+Changes
+ignore.txt
+Makefile.PL
+MANIFEST			This list of files
+README.md
+script/example.pl
+t/00-check.t
+t/01-length.t
+t/lib/Battleship.pm
